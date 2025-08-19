@@ -1,3 +1,9 @@
+'''
+Descripttion: 手搓transformer
+version: 1.0
+Date: 2025-08-14 11:36:07
+LastEditTime: 2025-08-19 10:25:01
+'''
 import math
 import torch
 from torch import nn
